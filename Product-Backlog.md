@@ -1,75 +1,47 @@
 # Product Backlog
 
-## Epic: User Account
+## Epic: User Management
 
-### US-1
+### ECWP-4 - User Registration
+
 As a customer,
 I want to create an account,
-So that I can place orders.
+So that I can place orders and manage my profile.
 
-### Acceptance Criteria
-- User can register using email
-- Password is validated
-- Success message displayed
+### ECWP-5 - User Login
 
----
-
-### US-2
 As a customer,
-I want to log in,
-So that I can access my account.
-
-### Acceptance Criteria
-- User enters email and password
-- User is redirected to dashboard
+I want to log into my account,
+So that I can access personalized features.
 
 ---
 
-## Epic: Product Catalog
+## Epic: Shopping Experience
 
-### US-3
+### ECWP-6 - Browse Products
+
 As a customer,
 I want to browse products,
 So that I can find items to purchase.
 
-### Acceptance Criteria
-- Product images displayed
-- Product prices displayed
-- Product descriptions displayed
+### Search Products
 
----
-
-### US-4
 As a customer,
 I want to search for products,
-So that I can find products quickly.
-
-### Acceptance Criteria
-- Search bar available
-- Matching products displayed
+So that I can quickly find what I need.
 
 ---
 
-## Epic: Shopping Cart
+## Epic: Checkout System
 
-### US-5
+### Shopping Cart
+
 As a customer,
-I want to add products to cart,
-So that I can purchase them later.
+I want to add products to a cart,
+So that I can purchase multiple items.
 
-### Acceptance Criteria
-- Add to cart button available
-- Cart updates automatically
+### Checkout
 
----
-
-## Epic: Checkout
-
-### US-6
 As a customer,
-I want to checkout securely,
-So that I can complete my purchase.
-
-### Acceptance Criteria
-- User enters shipping details
-- Order confirmation displayed
+I want to complete payment securely,
+So that I can finalize my order.
