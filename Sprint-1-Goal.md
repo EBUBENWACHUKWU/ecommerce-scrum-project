@@ -1,10 +1,21 @@
 # Sprint 1 Goal
 
-Deliver the core shopping experience by enabling customers to:
+## Objective
 
-- Register an account
-- Log in
-- Browse products
-- Search products
+Implement user account functionality and product browsing capabilities.
 
-The sprint focuses on creating the foundation of the e-commerce platform.
+## Business Value
+
+This sprint establishes the foundation of the e-commerce platform by enabling customers to:
+
+- Create accounts
+- Log into the platform
+- Browse available products
+
+These capabilities are required before shopping cart and checkout features can be developed.
+
+## Selected User Stories
+
+- ECWP-4: User Registration
+- ECWP-5: User Login
+- ECWP-6: Browse Products
