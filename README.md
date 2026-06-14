@@ -120,15 +120,15 @@ The team successfully delivered the complete customer purchasing workflow from p
 
 ## Product Backlog
 
-![Product Backlog](Jira Backlog.png)
+![Product Backlog](Jira-Backlog.png)
 
-## Sprint Completion
+## Completed User Stories
 
-![Sprint Completion](Completed-Sprint.png)
+![Completed User Stories](Completed-User-Stories.png)
 
 ## Burndown Chart
 
-![Burndown Chart](Burndown-Chart.png)
+![Burndown Chart](Burndown-Chat.png)
 
 ---
 
@@ -176,7 +176,7 @@ The team successfully delivered the complete customer purchasing workflow from p
 
 ---
 
-## Project Status
+# Project Status
 
 ✅ Sprint 1 Completed
 
