@@ -1,54 +1,110 @@
 # E-Commerce Website Scrum Case Study
 
-## Background
+## Project Background
 
-An online retail company required an e-commerce platform that would allow customers to browse products and make purchases online.
+An online retail company wanted to develop an e-commerce platform that would allow customers to discover products, manage shopping carts, and complete purchases online.
 
-## Problem
+The project required an Agile approach to deliver value incrementally while allowing stakeholder feedback throughout development.
 
-The company needed a structured development process to deliver features incrementally while responding to stakeholder feedback.
+---
+
+## Business Problem
+
+The organization needed a structured delivery process to:
+
+* Improve visibility into project progress
+* Prioritize customer-facing features
+* Deliver functionality in incremental releases
+* Reduce delivery risks
+
+---
 
 ## Scrum Approach
 
-The project was managed using Scrum.
+The project was managed using the Scrum framework.
 
-### Sprint Length
+### Sprint Duration
 
 2 Weeks
 
 ### Scrum Events
 
-- Sprint Planning
-- Daily Standups
-- Sprint Review
-- Sprint Retrospective
+* Sprint Planning
+* Daily Stand-Ups
+* Sprint Reviews
+* Sprint Retrospectives
+* Backlog Refinement Sessions
 
-### Product Backlog Structure
+---
 
-Epic 1: User Management
+## Product Backlog
 
-Epic 2: Shopping Experience
+The backlog was organized into three epics:
 
-Epic 3: Checkout System
+### User Management
 
-## Sprint 1 Goal
+* User Registration
+* User Login
+
+### Shopping Experience
+
+* Browse Products
+* Search Products
+* Add To Cart
+
+### Checkout System
+
+* Checkout
+
+---
+
+## Sprint 1
+
+### Goal
 
 Implement user account functionality and product browsing capabilities.
 
-## Sprint 1 Deliverables
+### Delivered Features
 
-- User Registration
-- User Login
-- Browse Products
+* User Registration
+* User Login
+* Browse Products
+
+### Outcome
+
+Customers could create accounts, log in, and browse available products.
+
+---
+
+## Sprint 2
+
+### Goal
+
+Enhance the shopping experience by implementing search, cart, and checkout functionality.
+
+### Delivered Features
+
+* Search Products
+* Add To Cart
+* Checkout
+
+### Outcome
+
+Customers could successfully search for products, manage shopping carts, and complete purchases.
+
+---
 
 ## Results
 
-The sprint successfully delivered the foundational features required for customers to access and explore the platform.
+The project successfully delivered the complete customer shopping workflow.
 
-Stakeholders approved the delivered functionality and recommended additional shopping and checkout features for future sprints.
+Stakeholders received working increments at the end of each sprint and provided feedback that informed future backlog priorities.
+
+---
 
 ## Lessons Learned
 
-- Clear sprint goals improved team focus.
-- Smaller user stories improved estimation accuracy.
-- Early stakeholder feedback helped guide future backlog priorities.
+* Clearly defined sprint goals improved team focus.
+* Smaller user stories improved estimation accuracy.
+* Continuous stakeholder feedback improved product quality.
+* Sprint retrospectives helped identify process improvements.
